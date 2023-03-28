@@ -1,1 +1,3 @@
 This is the new txt file for the w1 day2 practice.
+
+hello, this is the new content
